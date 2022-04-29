@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">counterApp</string>
+    <string name="textView">0</string>
+    <string name="addButton">Inc</string>
+    <string name="subButton">Dec</string>
+    <string name="resetButton">Reset</string>
+
+</resources>
